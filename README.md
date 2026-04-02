@@ -1,5 +1,5 @@
 # conversation-nakaminato-v1
-Partial copy of the repo 'breathing-mmm' for code review of the artwork 'Have a conversation with the place: Nakamnato station '
+Code of the artwork 'Have a conversation with the place: Nakamnato station '
   * https://www.norifujimura.com/conversation-with-nakaminato-station/ 
 Firebase(Realtime DB/DB/Functions/Hosting), ChatGPT API(Chat complete/Assistant/RAG), Javascript, Python(for chatGPT prototyping), Arduino, 
 
