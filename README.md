@@ -1,13 +1,14 @@
-# talk-to-nakaminato-station-review
-Partial copy of the repo 'breathing-mmm' for code review of the artwork 'Talk to Nakaminato Station'
+# conversation-nakaminato-v1
+Partial copy of the repo 'breathing-mmm' for code review of the artwork 'Have a conversation with the place: Nakamnato station '
+  * https://www.norifujimura.com/conversation-with-nakaminato-station/ 
 Firebase(Realtime DB/DB/Functions/Hosting), ChatGPT API(Chat complete/Assistant/RAG), Javascript, Python(for chatGPT prototyping), Arduino, 
 
 * Front end codes in JS
-  * https://github.com/norifujimura/talk-to-nakaminato-station-review/blob/main/web-front-end/index-e.html
+  * https://github.com/norifujimura/conversation-nakaminato-v1/blob/main/web-front-end/index-e.html
 * Firebase function codes in JS
-  * https://github.com/norifujimura/talk-to-nakaminato-station-review/blob/main/web-functions/index.js
+  * https://github.com/norifujimura/conversation-nakaminato-v1/blob/main/web-functions/index.js
 * M5stack/Arduino(C++) code to handle Philips HUE web api
-  * https://github.com/norifujimura/talk-to-nakaminato-station-review/tree/main/m5stack/firebase_read_stream_library_hue_lights_timer_monitorsound
+  * https://github.com/norifujimura/conversation-nakaminato-v1/tree/main/m5stack/firebase_read_stream_library_hue_lights_timer_monitorsound
 
 ## Experience
 <img src = "./doc-images/experience.jpg" width = "1200">
