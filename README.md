@@ -19,7 +19,7 @@ Firebase(Realtime DB/DB/Functions/Hosting), ChatGPT API(Chat complete/Assistant/
 ## Working Demo
 <img src = "./doc-images/qrcode.png" width = "200">
 
-* [mmm-ai-nakaminato.web.app/index-e.html](mmm-ai-nakaminato.web.app/index-e.html)
+* [https://mmm-ai-nakaminato.web.app/index-e.html](https://mmm-ai-nakaminato.web.app/index-e.html)
 * When you scan the QR code by mobile/tablet, following webapp appears and you can try the artwork. 
 
 <img src = "./doc-images/demo1.jpg" width = "1200">
